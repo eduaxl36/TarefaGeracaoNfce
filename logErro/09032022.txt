@@ -1,0 +1,11 @@
+09032022 18:31 -> 
+teste
+<-
+09032022 16:22 -> 
+Ocorreu uma falha : 
+O índice estava fora dos limites da matriz.
+<-
+09032022 09:19 -> 
+Ocorreu uma falha : 
+O índice estava fora dos limites da matriz.
+<-

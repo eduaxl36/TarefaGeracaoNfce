@@ -1,0 +1,11 @@
+C:\Users\eduardo\Desktop\Nova pasta\TarefaGeracaoNfce\bin\Debug\TarefasNFC2.exe.config
+C:\Users\eduardo\Desktop\Nova pasta\TarefaGeracaoNfce\bin\Debug\TarefasNFC2.exe
+C:\Users\eduardo\Desktop\Nova pasta\TarefaGeracaoNfce\bin\Debug\TarefasNFC2.pdb
+C:\Users\eduardo\Desktop\Nova pasta\TarefaGeracaoNfce\bin\Debug\System.ValueTuple.dll
+C:\Users\eduardo\Desktop\Nova pasta\TarefaGeracaoNfce\bin\Debug\System.ValueTuple.xml
+C:\Users\eduardo\Desktop\Nova pasta\TarefaGeracaoNfce\obj\Debug\TarefaGeracaoNfce.csproj.AssemblyReference.cache
+C:\Users\eduardo\Desktop\Nova pasta\TarefaGeracaoNfce\obj\Debug\TarefaGeracaoNfce.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduardo\Desktop\Nova pasta\TarefaGeracaoNfce\obj\Debug\TarefaGeracaoNfce.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\Desktop\Nova pasta\TarefaGeracaoNfce\obj\Debug\TarefaGeracaoNfce.csproj.CopyComplete
+C:\Users\eduardo\Desktop\Nova pasta\TarefaGeracaoNfce\obj\Debug\TarefasNFC2.exe
+C:\Users\eduardo\Desktop\Nova pasta\TarefaGeracaoNfce\obj\Debug\TarefasNFC2.pdb
